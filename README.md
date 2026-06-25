@@ -41,5 +41,5 @@
 
 **@nomina** / **@omni-network**
 - typescript solver SDK (enabling cross chain settlement for any dapp/defi UI)
-- realtime perps trading platform for deploying trading strategies across perps exchanges (hyperliquid/lighter/extended etc)
+- realtime perps trading app facilitating deployment of strategies across perps exchanges (hyperliquid/lighter/extended etc)
 - staking/bridging dapps
