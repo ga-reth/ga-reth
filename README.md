@@ -17,9 +17,9 @@
 
 **@JPMorgan**
 - low latency interest rate derivative pricing systems
-- high performance derivatives pricers
-- modelling derivatives instruments in code
-- downstream pricing feeds
+- realtime/high performance frontends (deliveriving risk curves, derivatives pricers, and more)
+- modelled various IR derivative instruments in code
+- built downstream pricing feeds
 
 **@aave**
 - non-custodial exchange (fullstack - mobile + server)
@@ -32,5 +32,5 @@
 
 **@nomina** / **@omni-network**
 - typescript solver SDK (enabling cross chain settlement for any dapp/defi UI)
-- perps trading platform enabling deployment of trading strategies across perps exchanges (hyperliquid/lighter/extended etc)
+- realtime perps trading platform for deploying trading strategies across perps exchanges (hyperliquid/lighter/extended etc)
 - staking/bridging dapps
