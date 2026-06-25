@@ -25,20 +25,20 @@
 
 **@JPMorgan**
 - low latency interest rate derivative pricing systems
-- realtime/high performance frontends (deliveriving risk curves, derivatives pricers, and more)
+- realtime/high performance frontends (delivering risk curves, derivatives pricers, and more)
 - modelled various IR derivative instruments in code
 - built downstream pricing feeds
 
 **@aave**
 - non-custodial exchange (fullstack - mobile + server)
-- mobile wallet infra in react native/Swift (secure storage / secure enclave / transaction signing etc)
+- mobile wallet infra in react native/swift (secure storage / secure enclave / transaction signing etc)
 - end-end open banking integration via Plaid (react native + node)
 - institutional fund custody via Fireblocks (node)
 - end-end liquidity provision via Talos (react native + node)
 - custom Swift secure customer authentication (SCA) implementation
-- some smart contracts stuff
+- some smart contract stuff
 
 **@nomina** / **@omni-network**
 - typescript solver SDK (enabling cross chain settlement for any dapp/defi UI)
 - realtime perps trading app facilitating deployment of strategies across perps exchanges (hyperliquid/lighter/extended etc)
-- staking/bridging dapps
+- staking/bridging/token migration dapps
