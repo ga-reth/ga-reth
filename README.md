@@ -12,7 +12,7 @@ london, UK | polygot builder
 - [3d-website](https://github.com/ga-reth/3d-website) - threeJS + react 3d folio
 - [LifeBeyond](https://github.com/ga-reth/LifeBeyond) - university project, mobile app offering nutrition/lifestyle guidance for living beyond cancer
 
-### timeline
+### what i've done
 
 **@JPMorgan**
 - low latency interest rate derivative pricing systems
