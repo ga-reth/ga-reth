@@ -2,15 +2,15 @@ london, UK | polygot builder
 
 ### stuff
 
-[llm-seek](https://github.com/ga-reth/llm-seek) - automated ATS job posting retrieval/filtering/LLM ranking and eval
-[lil-defi](https://github.com/ga-reth/lil-defi) - intentionally-limited solidity adaptations of defi protocols/concepts
-[tic-tac-toe](https://github.com/ga-reth/tic-tac-toe) - C implementation of Tic Tac Toe
-[make-real-3js](https://github.com/ga-reth/make-real-3js) - turn your tldraw vector drawings into an embedded threeJS canvas
-[solidity-stuff](https://github.com/ga-reth/solidity-stuff) - playing with solidity / learning to write smart contracts
-[shake-shock](https://github.com/ga-reth/shake-shock) - P2E browser based game with tokenomics/escrow/NFTs
-[web3-starter-kit](https://github.com/ga-reth/web3-starter-kit) - simple web3/dapp starter kit
-[3d-website](https://github.com/ga-reth/3d-website) - threeJS + react 3d folio
-[LifeBeyond](https://github.com/ga-reth/LifeBeyond) - university project, mobile app offering nutrition/lifestyle guidance for living beyond cancer
+- [llm-seek](https://github.com/ga-reth/llm-seek) - automated ATS job posting retrieval/filtering/LLM ranking and eval
+- [lil-defi](https://github.com/ga-reth/lil-defi) - intentionally-limited solidity adaptations of defi protocols/concepts
+- [tic-tac-toe](https://github.com/ga-reth/tic-tac-toe) - C implementation of Tic Tac Toe
+- [make-real-3js](https://github.com/ga-reth/make-real-3js) - turn your tldraw vector drawings into an embedded threeJS canvas
+- [solidity-stuff](https://github.com/ga-reth/solidity-stuff) - playing with solidity / learning to write smart contracts
+- [shake-shock](https://github.com/ga-reth/shake-shock) - P2E browser based game with tokenomics/escrow/NFTs
+- [web3-starter-kit](https://github.com/ga-reth/web3-starter-kit) - simple web3/dapp starter kit
+- [3d-website](https://github.com/ga-reth/3d-website) - threeJS + react 3d folio
+- [LifeBeyond](https://github.com/ga-reth/LifeBeyond) - university project, mobile app offering nutrition/lifestyle guidance for living beyond cancer
 
 ### what i've done
 
